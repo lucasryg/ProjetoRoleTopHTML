@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    list-style-type: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+/*************************************
+        Calendario
+*************************************/
+.myCalendar.nao-month td {
+    padding: 15px;
+  }
+  
+  .myCalendar .month-head>div,
+  .myCalendar .month-head>button {
+    padding: 15px;
+  }
+
+
+/*************************************
+        Calendario
+*************************************/
+
+/**********************************************
+                INICIO NAV
+**********************************************/
+
+
+nav ul{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+nav li{
+    color: white;
+}
+
+nav h1{
+    display: flex;
+    justify-content: center;
+}
+
+
+/**********************************************
+                FINAL NAV
+**********************************************/
+
